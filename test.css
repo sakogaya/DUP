@@ -418,6 +418,9 @@ font-family: 'Tourney', cursive;
         font-size: 2rem;
     }
     
+  #sakotd img{
+    width: 100%;
+  }
   }
 
 
